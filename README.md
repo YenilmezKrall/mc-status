@@ -14,28 +14,27 @@ A simple Discord bot that displays the status and player count of a Minecraft se
 - Customizable prefix.
 - Easy-to-follow setup instructions.
 - Custom maintenance mode detection.
-- A [support server](https://discord.gg/eHxvStNJb7) to help with setup or issues.
-  [![Discord server invite](https://discord.com/api/guilds/682053500775170120/embed.png)](https://discord.gg/eHxvStNJb7)
+- A [support server](https://discord.gg/zthvYvttQp) to help with setup or issues.
+  [![Discord server invite](https://discord.com/api/guilds/811164536571691018/embed.png)](https://discord.gg/zthvYvttQp)
 
-For more info, including installation, configuration, and usage, visit the [documentation.](https://fyssioncodes.com/mc-status-bot)
+For more info, including installation, configuration, and usage, visit the [documentation.](https://discord.gg/zthvYvttQp)
 
 ## Installation and Setup
 
-For detailed installation instructions, check out the [installation guide.](https://fyssioncodes.com/mc-status-bot/)
+For detailed installation instructions, check out the [installation guide.](https://discord.gg/zthvYvttQp)
 
 ### Configuration
 
 `mc-status-bot` comes with a built-in configuration helper. To change configuration options, simply run the updater.
 For a more in-depth explanation on configuration, including configuration options,
-see the [configuration page.](https://www.fyssioncodes.com/mc-status-bot/configuration.html)
+see the [configuration page.](https://discord.gg/zthvYvttQp)
 
 ### Commands
 
 While the bot's main purpose is to display a Minecraft server's status in the Discord member list,
 it also comes with a few useful commands. For example, the `;server` command shows a message containing detailed
 info about the current Minecraft server.
-You can view the full command list [here.](https://www.fyssioncodes.com/mc-status-bot/commands.html)
+You can view the full command list [here.](https://discord.gg/zthvYvttQp)
 
 ## Attributes
 
-- [Just-Some-Bots/MusicBot](https://github.com/Just-Some-Bots/MusicBot) for run and updater scripts. Copyright (c) Just-Some-Bots
