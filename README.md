@@ -38,3 +38,11 @@ You can view the full command list [here.](https://discord.gg/zthvYvttQp)
 
 ## Attributes
 
+
+#config
+`bot-token: bot token
+maintenance-mode-detection: null
+prefix: ;
+refresh-rate: 60
+server-ip: Server ip
+server-type: java`
